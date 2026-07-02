@@ -1,5 +1,37 @@
-# 💫 About Me:
-# Hi, I'm Satya 👋<br><br>🚀 Aspiring Machine Learning Engineer | Data Science Enthusiast | Problem Solver<br><br>I'm a passionate developer and machine learning enthusiast who enjoys transforming data into meaningful insights and building intelligent systems that solve real-world problems. I am continuously learning and applying concepts from Machine Learning, Data Science, and Artificial Intelligence through hands-on projects and competitive challenges.<br><br>## What I'm Currently Working On<br><br>* Building end-to-end Machine Learning projects<br>* Developing predictive models for real-world datasets<br>* Participating in the ISRO Solar Flare Prediction Hackathon<br>* Exploring Deep Learning, Explainable AI (SHAP), and Model Deployment<br>* Strengthening my Data Structures and Algorithms skills<br><br>## Technical Skills<br><br>### Programming Languages<br><br>* Python<br>* Java<br>* SQL<br><br>### Machine Learning & Data Science<br><br>* Pandas<br>* NumPy<br>* Matplotlib<br>* Scikit-Learn<br>* Machine Learning Algorithms<br>* Feature Engineering<br>* Model Evaluation<br><br>### Tools & Technologies<br><br>* Git & GitHub<br>* Jupyter Notebook<br>* VS Code<br><br>## Featured Interests<br><br>* Machine Learning<br>* Artificial Intelligence<br>* Space Technology<br>* Solar Flare Prediction<br>* Data Analytics<br>* Open Source Development<br><br>## Goals for 2026<br><br>* Build a strong Machine Learning portfolio<br>* Contribute to open-source projects<br>* Master Deep Learning and MLOps<br>* Participate in national-level hackathons<br>* Create impactful AI solutions for real-world challenges<br><br>## Connect With Me<br><br>I'm always interested in collaborating on Machine Learning, Data Science, and AI projects. Feel free to explore my repositories and connect with me as I continue my journey in technology and innovation.<br><br>"Learning by building, improving through experimentation, and growing through consistency."<br>
+# Hi, I'm Satya 👋
+
+🚀 Aspiring Machine Learning Engineer | Data Science Enthusiast
+
+I'm passionate about building intelligent systems, analyzing data, and solving real-world problems using Machine Learning and AI. I enjoy learning new technologies and applying them through projects, hackathons, and continuous experimentation.
+
+### 🔭 Currently Working On
+
+* End-to-End Machine Learning Projects
+* ISRO Solar Flare Prediction Hackathon
+* Deep Learning & Explainable AI (SHAP)
+* Model Deployment & MLOps Fundamentals
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL
+
+**ML & Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Google Colab
+
+### 🎯 Goals
+
+* Build impactful AI solutions
+* Contribute to Open Source
+* Strengthen ML & Deep Learning skills
+* Grow as a Data Scientist and ML Engineer
+
+### 📫 Connect
+
+Feel free to explore my repositories and connect with me. I'm always excited to learn, collaborate, and build innovative projects.
+
+*"Learning by building, improving through experimentation, and growing through consistency."*
+
 
 
 ## 🌐 Socials:
